@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Font Toggle Android</string>
+    <string name="lobster_regular_tv">Lobster 2 regular</string>
+    <string name="lobster_bold_tv">Lobster 2 bold</string>
+    <string name="lobster_italic_tv">Lobster 2 italic</string>
+    <string name="lobster_bold_italic_tv">Lobster 2 bold italic</string>
+    <string name="toggle_font_style_sw">Toggle Font</string>
+    <string name="header_style_true_font">True font:</string>
+    <string name="header_style_fake_font">Fake font:</string>
+</resources>
